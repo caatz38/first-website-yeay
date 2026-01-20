@@ -1,0 +1,26 @@
+img {
+    width: 250px;
+}
+
+
+body {
+    padding-top: 20vh;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    background-color: darkseagreen;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    border: 5px solid #333;
+    background-color: lightskyblue;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 50px;
+}
